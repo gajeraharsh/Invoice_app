@@ -1,0 +1,33 @@
+.AddtableMainBox {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+
+.AddtablesubBox {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.AddtablesubBoxset {
+  justify-content: left;
+}
+
+.headingText {
+  margin: 1rem 0rem 1rem 2rem;
+  color: gray;
+  font-size: 1.4rem;
+}
+
+.ButtonGroup {
+}
+
+.BillFormate_wrapper {
+  max-width: 100%;
+  overflow: auto;
+  display: none;
+  background-color: #fff;
+}

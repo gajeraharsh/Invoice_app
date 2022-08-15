@@ -1,0 +1,47 @@
+.Table {
+  width: 100%;
+}
+.tablemain {
+  width: 97%;
+  border-collapse: collapse;
+
+  margin-left: 1.5rem;
+}
+
+.tablemain th {
+  font-size: 0.7rem;
+  padding: 0.4rem;
+}
+
+.tablemain td {
+  font-size: 0.7rem;
+  padding: 0.4rem;
+}
+
+.asd {
+  border: none;
+}
+
+th {
+  border: 1px solid #ddd;
+  border-bottom: none;
+}
+tr {
+  border: 1px solid #ddd;
+  border-top: 0;
+  border-right: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-bottom: none;
+}
+td {
+  border-right: 1px solid #ddd;
+  border-top: 0;
+  border-right: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-bottom: 0;
+  min-width: 58px;
+}
+
+.border_style {
+  border: 1px solid #ddd;
+}
